@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFastcampusPay.iml" filepath="$PROJECT_DIR$/MyFastcampusPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MyFastcampusPay.common.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFastcampusPay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFastcampusPay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.iml" filepath="$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/membership-service/MyFastcampusPay.membership-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFastcampusPay.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFastcampusPay.test.iml" />
     </modules>
   </component>
 </project>

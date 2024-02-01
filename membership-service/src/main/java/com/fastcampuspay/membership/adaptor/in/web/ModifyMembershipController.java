@@ -1,8 +1,8 @@
 package com.fastcampuspay.membership.adaptor.in.web;
 
+import com.fastcampuspay.common.WebAdapter;
 import com.fastcampuspay.membership.application.port.in.ModifyMembershipCommand;
 import com.fastcampuspay.membership.application.port.in.ModifyMembershipUseCase;
-import com.fastcampuspay.membership.common.WebAdapter;
 import com.fastcampuspay.membership.domain.Membership;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

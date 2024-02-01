@@ -1,4 +1,4 @@
-package com.fastcampuspay.membership.common;
+package com.fastcampuspay.common;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 @Component
-public @interface UseCase {
+public @interface PersistenceAdapter {
 
   /**
    * The value may indicate a suggestion for a logical component name,

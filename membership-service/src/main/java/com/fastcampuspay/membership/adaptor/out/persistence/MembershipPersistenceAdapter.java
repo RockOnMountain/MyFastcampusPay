@@ -1,9 +1,9 @@
 package com.fastcampuspay.membership.adaptor.out.persistence;
 
+import com.fastcampuspay.common.PersistenceAdapter;
 import com.fastcampuspay.membership.application.port.out.FindMembershipPort;
 import com.fastcampuspay.membership.application.port.out.ModifyMembershipPort;
 import com.fastcampuspay.membership.application.port.out.RegisterMembershipPort;
-import com.fastcampuspay.membership.common.PersistenceAdapter;
 import com.fastcampuspay.membership.domain.Membership;
 import lombok.RequiredArgsConstructor;
 

@@ -3,7 +3,7 @@ package com.fastcampuspay.membership.application.port.in;
 import javax.validation.constraints.AssertTrue;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
-import com.fastcampuspay.membership.common.SelfValidating;
+import com.fastcampuspay.common.SelfValidating;
 import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
